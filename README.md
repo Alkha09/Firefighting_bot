@@ -6,7 +6,7 @@ An ESP32-based firefighting robot designed to detect fire, approach the fire, av
 
 ## Project Demo
 
-[Watch the Firefighting Robot Demo](firfighting_video.mp4)
+[Watch the Firefighting Robot Demo]([firfighting_video.mp4](https://www.instagram.com/reel/DALlUGhy2Fu/?igsi=aGwwanpzZThsd2Zj))
 
 ## Features
 
