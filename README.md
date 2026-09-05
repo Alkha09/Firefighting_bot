@@ -1,12 +1,12 @@
 # ESP32 Firefighting Robot
 
-![ESP32 Firefighting Robot](c:\Users\akmgr\Downloads\firefighting-bot\image.png)
+![ESP32 Firefighting Robot](image.png)
 
 An ESP32-based firefighting robot designed to detect fire, approach the fire, avoid obstacles, and spray water automatically. The robot can also be controlled manually using a mobile phone through Wi-Fi.
 
 ## Project Demo
 
-[Watch the Firefighting Robot Demo](C:\Users\akmgr\Downloads\firefighting-bot)
+[Watch the Firefighting Robot Demo](firefighting-bot)
 
 ## Features
 
